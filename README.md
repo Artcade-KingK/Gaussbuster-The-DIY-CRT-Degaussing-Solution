@@ -28,6 +28,6 @@
 
 ## Files
 
-Complete KiCad project available. Special thanks to the budy https://github.com/Guimli for designing this PCB.
-README.md powered by [stackedit.io](https://stackedit.io/app#)
-3D models powered by [snapeda.com](https://www.snapeda.com/)
+ - Complete KiCad project available. Special thanks to the budy https://github.com/Guimli for designing this PCB.
+ - README.md powered by [stackedit.io](https://stackedit.io/app#)
+ - 3D models powered by [snapeda.com](https://www.snapeda.com/)
