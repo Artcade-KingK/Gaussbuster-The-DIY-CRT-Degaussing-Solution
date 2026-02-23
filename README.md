@@ -1,9 +1,9 @@
-![Gaussbusters: The DIY CRT Degaussing Solution](https://www.arcadeinthebox.com/images/Gaussbusters-The-DIY-Degaussing-Solution-PCB.png)
+![Gaussbusters: The DIY CRT Degaussing Solution](https://github.com/Artcade-KingK/Gaussbuster-The-DIY-CRT-Degaussing-Solution/blob/main/Pics/Gaussbusters-The-DIY-Degaussing-Solution-PCB.png?raw=true)
 
 # 📺 Gaussbusters: The DIY CRT Degaussing Solution
 **Gaussbuster** is an open-source add-on card designed for CRT chassis that lack an integrated degaussing circuit. Whether you are refurbishing a budget arcade monitor or a specialty display, Gaussbuster helps eliminate purity issues and color splotches by providing a clean, reliable degaussing pulse every time you power on.
 
-![Gaussbusters: The DIY CRT Degaussing Solution](https://www.arcadeinthebox.com/images/Gaussbusters-The-DIY-Degaussing-Solution.png)
+![Gaussbusters: The DIY CRT Degaussing Solution](https://github.com/Artcade-KingK/Gaussbuster-The-DIY-CRT-Degaussing-Solution/blob/main/Pics/Gaussbusters-The-DIY-Degaussing-Solution.png?raw=true)
 
 # ⚡ Key Features
 -   **Universal Compatibility:** Designed to interface with standard degaussing coils found on 14" to 29" tubes + all voltages (110 to 220V compatibility).
